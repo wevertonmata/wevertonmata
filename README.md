@@ -4,6 +4,11 @@ My name is Weverton Ryan Ribeiro da Mata, from Brazil. I lovely Information Tech
 
 Interested in pursuing a career in software engineering or information system. 
 
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-aug&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 Would you like to find me?
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=3f729b&logo=instagram&logoColor=white&link=https://www.instagram.com/weverton.mata/)](https://www.instagram.com/weverton.mata/)
